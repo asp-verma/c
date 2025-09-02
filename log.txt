@@ -1,0 +1,3 @@
+THIS IS APPOENDED ! 
+we are working on file modes and appends 
+hello we are now working in c language ! 
